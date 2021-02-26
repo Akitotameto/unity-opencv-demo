@@ -1,0 +1,4 @@
+#Thu Feb 25 17:39:22 JST 2021
+base.0=/Users/akito/Desktop/Study/Unity/project/face-test/Temp/gradleOut/launcher/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
